@@ -147,7 +147,7 @@ if (isset($_POST['getInfo'])) {
             <input type="number" name="number" placeholder="📞 Enter Number Here" required value="<?= htmlspecialchars($number) ?>">
             <div>
                 <button class="btn-info" type="submit" name="getInfo">🔍 Get Info</button>
-                <button class="btn-join" type="button" onclick="window.open('https://t.me/BLACKCYBERTEAM1', '_blank')">💬 Join Channel</button>
+                <button class="btn-join" type="button" onclick="window.open('https://t.me/TEAM_X_007', '_blank')">💬 Join Channel</button>
             </div>
         </form>
 
